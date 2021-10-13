@@ -54,4 +54,13 @@ section.top-page {
     bottom: 0;
 }
 
+.button {
+    background-color: #73b504;
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+}
+
 
